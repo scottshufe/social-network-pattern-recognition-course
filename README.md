@@ -4,7 +4,7 @@
 - **networkx** 官方文档: https://networkx.github.io/documentation/stable/
 
 ## 参考数据集
-- 斯坦福网络分析项目数据集: http://memetracker.org/data/index.html
+- 斯坦福网络分析项目（SNAP）数据集: http://memetracker.org/data/index.html
 
 ## 第二讲实验代码与数据:
 - 第二讲实验演示.ipynb:
