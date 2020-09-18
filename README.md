@@ -1,2 +1,2 @@
-# social network pattern recognition course
- 
+# 社交媒体模式识别课程代码
+
