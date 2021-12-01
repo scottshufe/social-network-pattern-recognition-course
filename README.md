@@ -28,3 +28,7 @@
 3. 切割
 
 - 数据集: football, cora
+## 链路预测代码
+- cora_link_prediction.ipynb
+- 数据集：Cora
+- 算法：Local information (jaccard coefficient, common neighbor, adar adamic index), node feature similarity, deepwalk, gcn
